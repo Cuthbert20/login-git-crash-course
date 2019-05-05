@@ -7,3 +7,9 @@
 for(var i = 0; i < 10; i++){
     console.log(i)
 }
+//While loop
+var a = 0
+while(a <10){
+    console.log('A',a);
+    a++
+}
